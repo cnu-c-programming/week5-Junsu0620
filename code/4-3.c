@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    inr arr[5] = {10, 20, 30, 40, 50};
+    int arr[5] = {10, 20, 30, 40, 50};
     int size = 5;
     int index;
 
